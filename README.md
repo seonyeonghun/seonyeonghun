@@ -12,4 +12,7 @@
 <img src="https://img.shields.io/badge/Firebase-00599C?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=Wordpress&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Cinema_4D-011A6A?style=flat-square&logo=Cinema_4D&logoColor=white"/></a> &nbsp
 </p>
