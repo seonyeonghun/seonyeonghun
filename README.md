@@ -23,3 +23,6 @@
   <li>Database : <img src="https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></li>
   <li>Version Control :    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></li>
   </ul>
+
+<h3 align="center"><b>🛠 Notion Profile 🛠</b></h3>
+<a href="https://seonyeonghun.notion.site/Home-ff4e17a5cfbb45ebbb4d572d7ec57069" target="_blank>view resume</a>
