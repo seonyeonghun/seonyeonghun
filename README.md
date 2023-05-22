@@ -25,4 +25,4 @@
   </ul>
 
 <h3 align="center"><b>🛠 Notion Profile 🛠</b></h3>
-<a href="https://seonyeonghun.notion.site/Home-ff4e17a5cfbb45ebbb4d572d7ec57069">새창열기</a>
+<a href="https://seonyeonghun.notion.site/Home-ff4e17a5cfbb45ebbb4d572d7ec57069" target="_blank">새창열기</a>
