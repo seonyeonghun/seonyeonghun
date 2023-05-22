@@ -16,3 +16,10 @@
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Cinema 4D-011A6A?style=for-the-badge&logo=Cinema_4D&logoColor=white"/></a> &nbsp
 </p>
+<h3 align="center"><b>🛠 About Me🛠</b></h3>
+<ul>
+  <li>Data:<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp</li>
+  <li>Front-end : <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></li>
+  <li>Database : <img src="https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></li>
+  <li>Version Control :    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></li>
+  </ul>
